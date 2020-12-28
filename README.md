@@ -59,3 +59,5 @@ If you want to host this bot without having to re-run it locally on your compute
 ## 📞 Support
 If you need help setting up the bot or are having trouble, feel free to reach out to me at bea@beasleeps.tech, my [Twitter](https://twitter.com/17tragic), or my Discord, Bea#0001.
 
+Good luck!
+
