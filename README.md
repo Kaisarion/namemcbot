@@ -2,6 +2,7 @@
 This is a basic Discord.js bot utilizing the [MojangJS](https://www.npmjs.com/package/mojangjs), [HypixelJS](https://www.npmjs.com/package/hypixeljs) & [NameMC](https://namemc.com) APIs for information on Minecraft users, including basic moderation such as modmail, avatar, and whois. Initially crafted for the NameMC Discord server, this is now being made open source by Bea#0001. <br/>
 <br/>
 **DISCLAIMER:** Because this was for the NameMC Discord, some of the command wordings are built for it as well. If you'd like, please go ahead and change them.
+This is a basic Discord.js bot utilizing the [MojangJS](https://www.npmjs.com/package/mojangjs), [HypixelJS](https://www.npmjs.com/package/hypixeljs) & [NameMC](https://namemc.com) APIs for information on Minecraft users, including basic moderation such as modmail, avatar, and whois. Initially crafted for the NameMC Discord server, this is now being made open source by Bea#0001.
 
 ## ☁️ Getting Started
 **Requirements & Setup:**
