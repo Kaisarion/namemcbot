@@ -5,7 +5,7 @@ const axios = require("axios");
 
 module.exports = {
    name: "namemcfr",
-   description: "Gets the friend list of a namemc user.",
+   description: "Gets the friend list of a NameMC user.",
    category: "fun",
    aliases: ['nmcfr'],
    enabled: true,

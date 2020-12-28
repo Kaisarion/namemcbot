@@ -4,7 +4,7 @@ const Discord = require("discord.js");
 module.exports = {
    name: "handled",
    category: "admin",
-   description: "handles a help request. only people with the manage messages permission can use this command, and it is ONLY to reply to help requests.",
+   description: "Handles a help request. only people with the manage messages permission can use this command, and it is ONLY to reply to help requests.",
    aliases: ['helpreply'],
    usage: "n?handled (@mentionuser or ID) (help desk reply here)",
    enabled: true,

@@ -4,7 +4,7 @@ module.exports = {
    name: "claim",
    aliases: ["verify"],
    category: "info",
-   description: "Shows how to claim your NameMC account..",
+   description: "Shows instructions on how to claim your NameMC account.",
    enabled: true,
    run: async (client, message, args) => {
       const embed = new MessageEmbed()

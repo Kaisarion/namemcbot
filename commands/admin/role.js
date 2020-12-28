@@ -4,7 +4,7 @@ const Discord = require("discord.js");
 module.exports = {
    name: "role",
    category: "admin",
-   description: "adds mentioned role to mentioned user.",
+   description: "Adds mentioned role to mentioned user.",
    usage: "n?role [user] (role id or name)",
    aliases: ['assignrole', 'addrole'],
    enabled: true,

@@ -3,7 +3,7 @@ const axios = require('axios');
 
 module.exports = {
    name: "skin",
-   description: "gets the skin of a minecraft user.",
+   description: "Gets the skin of a Minecraft user.",
    category: "fun",
    aliases: ['mcskin'],
    enabled: true,

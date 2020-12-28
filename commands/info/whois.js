@@ -4,7 +4,7 @@ module.exports = {
    name: "whois",
    aliases: ["who", "user", "userinfo"],
    category: "info",
-   description: "returns user information",
+   description: "Returns user information",
    usage: "[username | id | mention]",
    enabled: true,
    run: (client, message, args) => {

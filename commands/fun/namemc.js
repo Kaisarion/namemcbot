@@ -5,7 +5,7 @@ const { MessageEmbed } = require("discord.js");
 
 module.exports = {
    name: "namemc",
-   description: "gets name history of a minecraft user.",
+   description: "Gets name history of a Minecraft user from the Mojang API.",
    category: "fun",
    run: async (client, message, args) => {
 

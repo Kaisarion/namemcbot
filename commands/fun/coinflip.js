@@ -2,7 +2,7 @@ const { MessageEmbed } = require("discord.js");
 
 module.exports = {
    name: "coinflip",
-   description: "flips a coin and randomly generates either heads or tails.",
+   description: "Flips a coin and randomly generates either heads or tails.",
    aliases: ['cf'],
    category: "fun",
    enabled: true,

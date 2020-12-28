@@ -7,7 +7,7 @@ hypixel.login(process.env.HYPIXELAPI_KEY);
 
 module.exports = {
    name: "hypixel",
-   description: "gets stats on a hypixel player!",
+   description: "Gets stats on a hypixel player!",
    category: "fun",
    aliases: ['hypixelpl'],
    enabled: true,
