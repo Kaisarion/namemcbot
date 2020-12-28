@@ -1,0 +1,36 @@
+{
+   "name": "namemc",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+   },
+   "engines": {
+      "node": "12.8.1"
+   },
+   "author": "bea",
+   "license": "MIT",
+   "dependencies": {
+      "axios": "0.21.0",
+      "ascii-table": "0.0.9",
+      "chalk": "^4.1.0",
+      "common-tags": "^1.8.0",
+      "discord.js": "^12.2.0",
+      "dotenv": "^8.2.0",
+      "enmap": "^5.3.2",
+      "hex-color-regex": "^1.1.0",
+      "hypixeljs": "^1.4.0",
+      "jquery": "^3.5.1",
+      "jsdom": "^16.4.0",
+      "mojangjs": "^2.0.3",
+      "moment": "^2.24.0",
+      "mysql": "^2.18.1",
+      "node-fetch": "^2.6.0",
+      "peer": "^0.5.3",
+      "random-puppy": "^1.1.0",
+      "request": "^2.88.2",
+      "superagent": "^5.3.1"
+   }
+}
