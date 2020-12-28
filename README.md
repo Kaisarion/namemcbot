@@ -43,9 +43,13 @@ If you want to host this bot without having to re-run it locally on your compute
 
 **VPS:** <br/>
 [Heroku, for private bots:](https://heroku.com)<br/>This has free hosting, and runs for the entire month if you link a valid debit/credit card too! This is how I host my public bot, [Amour](https://amourbot.com) (On a professional dyno.) <br/>
+<br/>
 [DigitalOcean, a VPS company:](https://m.do.co/c/aecdbe57ea38)<br/>This is also a good solution, with a range of operating systems such as Ubuntu, which is a personal favorite (: <br/>
+<br/>
 [Glitch:](https://glitch.com/)<br/>This is a simple yet effective host, especially for plain bots like this. Put your token in and you're off. Just make sure your project is private, or people can steal your tokens! <br/>
+<br/>
 [Repl.it:](https://repl.it/)<br/>This site can grab your GitHub repository with ease if you clone this one and edit it to your liking, and it has been efficient for me in the past when working on small bots for friends.
+<br/>
 
 <br/>
 
