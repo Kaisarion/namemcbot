@@ -13,7 +13,7 @@ module.exports = {
       let channel = message.channel;
 
       if (!message.member.roles.cache.has('755940381862002730')) { // Check for the Modmail Mod role in NameMC.
-         message.channel.send("You do not have permission to run this command. If this is in error, contact Bea#0001.");
+         message.channel.send("You do not have permission to run this command. If this is in error, contact REDRUM#0001.");
          return;
       }
 
